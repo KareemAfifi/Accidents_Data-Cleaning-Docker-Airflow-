@@ -1,0 +1,10 @@
+The PostgresDB username and password:
+username:postgres
+password:postgres
+
+The PGadmin is on port 3000
+The dash graph is on port 8050
+
+Airflow:
+username:airflow
+password:airflow
